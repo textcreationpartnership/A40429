@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at the funeral of Sir Tho. Bludworth, Kt., late alderman of the city of London, on Wednesday, May 24th, 1682 by Sam. Freeman.</title>
+            <author>Freeman, Samuel, 1643-1700.</author>
+         </titleStmt>
+         <extent>Approx. 36KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40429</idno><idno type="EEBO-CITATION">8141822</idno>
+  <idno type="VID">40935</idno>
+  <idno type="EEBO-PROQUEST">2248496802</idno>
+  
+            <idno type="STC">Wing F2143</idno>
+            <idno type="STC">ESTC R24342</idno>
+            <idno type="OCLC">08141822</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40429)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40935)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1230:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at the funeral of Sir Tho. Bludworth, Kt., late alderman of the city of London, on Wednesday, May 24th, 1682 by Sam. Freeman.</title>
+                  <author>Freeman, Samuel, 1643-1700.</author>
+               </titleStmt>
+               <extent>[2], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Gellibrand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Bludworth, Thomas, --  Sir, 1624-1682.</term>
+               <term type="topical_term">Funeral sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40935:1"/>
+            <pb facs="tcp:40935:1"/>
+            <p>A SERMON Preach'd at the FUNERAL OF Sir <hi>THO. BLUDWORTH,</hi> Kt. Late Alderman of the City of LONDON.</p>
+            <p>On <hi>Wednesday, May</hi> 24th 1682.</p>
+            <p>By <hi>SAM. FREEMAN,</hi> M.A. and Rector of St. <hi>Ann's Aldersgate, London.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Edward Gellibrand</hi> at the <hi>Golden Ball</hi> in St. <hi>Paul</hi>'s Church-yard. 1682.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:40935:2"/>
+            <pb facs="tcp:40935:2"/>
+            <head>To the much honour'd the La<g ref="char:EOLhyphen"/>dy <hi>Bludworth,</hi> late Wife of Sir. <hi>Thomas Bl<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udworth</hi> Knight deceas'd.</head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> WAS too conscious of the Weak<g ref="char:EOLhyphen"/>ness and Imperfections of this Discourse to have any Inclinati<g ref="char:EOLhyphen"/>on to let it go abroad, and was not a little surpriz'd to hear your Ladyship and some other great Persons press so earnestly for the Printing of it; What kind of usage it's likely to meet with in this Censorious and Uncharitable Age, I am altogether unconcern'd, being very well assur'd of the honest designs and intentions of the Author in the Preaching of it; And if it prove of any Use to the Publick, or any satis<g ref="char:EOLhyphen"/>faction
+<pb facs="tcp:40935:3"/> to your Ladyship, I have all I aim at in yeilding to the farther Pub<g ref="char:EOLhyphen"/>lication of it, besides the opportunity to acknowledg your Ladyships many undeserv'd Favours to</p>
+            <closer>
+               <salute>Madam,</salute>
+               <signed>Your Ladyships most humble and faithful Servant <hi>Sam. Freeman.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:40935:3"/>
+            <head>A SERMON Preached <hi>May</hi> 2<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 1682.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 THESS. IV. 14.</hi>
+                  </bibl>
+                  <p>If we believe that Jesus died and rose again, even so them also that sleep in Jesus will God bring with him.</p>
+               </q>
+            </epigraph>
+            <p>I Remember to have Read in <hi>Plutarch,</hi> that when <hi>Pausanias</hi> at a Banquet pray'd <hi>Simonides</hi> to speak some wise thing out of his Philosophy, he on<g ref="char:EOLhyphen"/>ly sayd, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Remember, O <hi>Pausanias,</hi> that thou art a Man; he thought the saying was pitiful and low, without Wit, and without prudent obser<g ref="char:EOLhyphen"/>vation; but when a while after he lost all his Prosperity, and perceiv'd he was to be starv'd to death, then he found that the
+<pb n="2" facs="tcp:40935:4"/> consideration was material, and that those plain words gave a wise Council, and fore<g ref="char:EOLhyphen"/>told a great event; It is now my case, I can tell you nothing new, nothing strange, nothing but what ye all know, I can only put you in remembrance of what ye all expect now, and shall feel one day; but I shall do the work that God does every day, for he smites some or other every day, and tells you every day that ye shall die, and that every one of you shall come to Judg<g ref="char:EOLhyphen"/>ment; that the Rich shall not be Protec<g ref="char:EOLhyphen"/>ted for Favour, nor the Poor for Pitty; not the old Man be reverenc'd for his Age, nor the Infant regarded for its Tenderness, that you must exchange your fair dwel<g ref="char:EOLhyphen"/>lings for a Coffin, your softer Beds for a turf of Earth, your pretty Children for Worms, and all your gayeties for a black, lonely, desolate hole of Earth. But must we die, and quit all our Delights and Enjoyments? is this the condition of all Mankind, and after all this is there no Comfort? Is there no al<g ref="char:EOLhyphen"/>lay to this huge Calamity? Yes, there is, In the belief of a joyful Resurrection, but
+<pb n="3" facs="tcp:40935:4"/> in nothing else, yet herein there is enough, for thus speaks the Apostle,
+<q>
+                  <p>
+                     <bibl>
+                        <hi>Vers. 13.</hi>
+                     </bibl> I would not have you to be Ig<g ref="char:EOLhyphen"/>norant, Brethren, concerning them which are asleep, that ye sorrow not, even as others, which have no hope.</p>
+               </q>
+               <q>
+                  <p>
+                     <bibl>
+                        <hi>Vers. 14.</hi>
+                     </bibl> For if we believe that Jesus di<g ref="char:EOLhyphen"/>ed, and rose again; even so them also that sleep in Jesus, will God bring with him.</p>
+               </q>
+            </p>
+            <p>The Text you see, presents us with two powerful Arguments against the excessive fear of our own Death, and immoderate sorrow for the Death of our Friends. The first is taken</p>
+            <p n="1">1. From the nature of Death to a good Man. 'Tis but a sleep, <hi>he sleeps in Jesus:</hi> to sleep in Scripture-stile frequently signi<g ref="char:EOLhyphen"/>fies to die, but 'tis the death of those that die in the Faith, or suffer Martyrdome for the Testimony of Jesus, that may most properly be so call'd, their deaths being but a repose of their Bodies in the Grave, and a rest of their Souls in the hands of God. The Second is taken</p>
+            <p n="2">
+               <pb n="4" facs="tcp:40935:5"/>2. From the Resurrection of the Dead grounded upon the belief of our Saviours Resurrection, <hi>For, if we believe that Jesus died and Rose again, even so them also that sleep in Jesus will God bring with him.</hi>
+            </p>
+            <p>For the more profitable understanding of both which, I shall endeavour</p>
+            <p n="1">1. To explain and confirm the Truth of them.</p>
+            <p n="2">2. To shew wherein the Virtue and Ef<g ref="char:EOLhyphen"/>ficacy of them lye to Support and Com<g ref="char:EOLhyphen"/>fort us against the fears and sorrows of Death.</p>
+            <p n="1">1. The first Argument is taken from the nature of Death to a good Man, it's call'd <hi>a sleep.</hi> Now in what respects it is so call'd, I shall briefly shew you, and that both in the Negative and the Affirmative.</p>
+            <p n="1">1. Negatively, not in respect of his Soul, as if that lye in the Grave with the Body in a State of utter inactivity, without mo<g ref="char:EOLhyphen"/>tion, and without sense, till the Resur<g ref="char:EOLhyphen"/>rection.
+<pb n="5" facs="tcp:40935:5"/> This Opinion is warmly espous'd by the <hi>Socinians,</hi> though they were not the first broachers of it; but how weakly it's founded on Scripture, and how contra<g ref="char:EOLhyphen"/>ry to the plain sense of it, a few words will be sufficient to inform you.</p>
+            <p n="1">1. How weakly it's founded on Scrip<g ref="char:EOLhyphen"/>ture. The places they press in to their service, are some in the Old and some in the New Testament.</p>
+            <p>In the Old Testament, such as these. Psal. 6.5. <hi>In death no man remembreth thee, and who shall give thee thanks in the grave?</hi> Sal. 30.9. <hi>Shall the dust praise thee, or shall it declare thy Truth.</hi> Again, Eccl. 9.10. <hi>There is neither work, nor device, nor know<g ref="char:EOLhyphen"/>ledg, nor wisdom in the Grave whither thou art going.</hi>
+            </p>
+            <p>To these and such like Texts, these two things may be answered. (1.) That they come in with as great a force to prove the mortality of the Soul as the sleep of it, and so proving too much, prove nothing at all. (2.) That they are to be understood with respect to that Covenant the <hi>Jews</hi>
+               <pb n="6" facs="tcp:40935:6"/> were under, which was founded only on Temporal promises, and gave no hopes concerning a future State of happiness. I do not say, that under the Old Testament there were no promises of Spiritual good things, and of Eternal happiness, or that good men had no belief and expectation of a future State of Bliss, The contrary to which being evident from the Psalms of <hi>David,</hi> many passages in the writings of the Prophets and the whole design of the 11th Chapter to the <hi>Hebrews;</hi> But then 'tis to be remembred, that these pro<g ref="char:EOLhyphen"/>mises were no part of the Law, that they did not belong to it as 'twas a particular legal Covenant with the <hi>Jews</hi> on Mount <hi>Sinai,</hi> that they were but few, and those very obscure and not to be understood, but by long trains and deductions of Rea<g ref="char:EOLhyphen"/>son.</p>
+            <p>The Places in the New Testament are chiefly these two. Those words of our Savi<g ref="char:EOLhyphen"/>our to prove the Resurrection against the Sadduces. Mat. 22.32. <hi>But as touching the Re<g ref="char:EOLhyphen"/>surrection of the dead, have ye not read that which was spoken unto you by God, saying, I
+<pb n="7" facs="tcp:40935:6"/> am the God of Abraham, and the God of Isaac, and the God of Jacob. God is not the God of the Dead but of the Living.</hi> Now, say they, did not the Soul sleep with the Body, and need a Resurrection with it; these words could not prove the Resurrection of the dead, for to be the God of <hi>Abraham</hi> signifies to be the Rewarder of <hi>Abraham;</hi> Now if the Soul is alive and capable of Plea<g ref="char:EOLhyphen"/>sure in the Interval betwixt its leaving the Body and the Resurrection, God might abundantly reward <hi>Abraham,</hi> although there were no Resurrection.</p>
+            <p>But to this it's Answer'd, that the de<g ref="char:EOLhyphen"/>sign of our Saviour in those words, was not only to prove the Resurrection in particular, but a future State in general against the <hi>Sadduces,</hi> who, as we are told, <hi>Acts</hi> 23.8. denyed that there was any such thing <hi>as Angel, or Spirit,</hi> or life to come. Of this perswasion was the greatest and most powerful part of the <hi>Sanhedrim</hi> in our Saviours time; and, if wee'l believe <hi>Josephus,</hi> the High-Priest himself and all his Kindred were of this Sect, upon this they esteem'd themselves wiser than all o<g ref="char:EOLhyphen"/>ther
+<pb n="8" facs="tcp:40935:7"/> men, and for this especially did they bear such an inveterate hatred against our Saviour and his Apostles. This then being the design of our Saviour in those words, to prove a future State in general, the Argument is very strong, and is rather confirm'd than destroy'd by the interme<g ref="char:EOLhyphen"/>dial happiness of the Soul; it ultimately resolves itself into the justice of divine pro<g ref="char:EOLhyphen"/>vidence and runs thus, if there be a God, he must be infinitely just, and if so, he must render unto <hi>Abraham</hi> according to his works, and that either here or hereafter, but he did not here, <hi>Abrahams</hi> Faith and O<g ref="char:EOLhyphen"/>bedience being signally greater than other Mens, but his condition, proportionably not happyer, and therefore he must hereafter; and consequently <hi>Abraham</hi> must be alive and in a capacity to receive that reward and those mighty blessings in relation to which God was pleased to stile himself <hi>The God of Abraham. God is not the God,</hi> i. e. not the rewarder <hi>of the Dead but of the Li<g ref="char:EOLhyphen"/>ving,</hi> But God is now the rewarder of <hi>A<g ref="char:EOLhyphen"/>braham,</hi> and therefore he is not dead, but alive to God, enjoying in part and expect<g ref="char:EOLhyphen"/>ing
+<pb n="9" facs="tcp:40935:7"/> yet a more full and ample recompence from him. And therefore the Apostle In<g ref="char:EOLhyphen"/>terprets that Declaration of God con<g ref="char:EOLhyphen"/>cerning the Patriarchs,<note place="margin">
+                  <hi>Exod.</hi> 3.6</note>
+               <hi>I am the God of thy Father, the God of Abraham, the God of Isaac, and the God of Jacob,</hi> of a future State of happiness, saying,<note place="margin">
+                  <hi>Heb.</hi> 11.16.</note>
+               <hi>God is not ashamed to be called their God, for he hath prepared for them a City.</hi>
+            </p>
+            <p>The other place in the New Testament is, that in the 1 <hi>Cor.</hi> 15.19. where the A<g ref="char:EOLhyphen"/>postle designs to prove the Resurrection of the Bod<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from the Afflictions and Per<g ref="char:EOLhyphen"/>secutions of good Men here for the sake of Christ; we shall rise again with our Bo<g ref="char:EOLhyphen"/>dies, says he, for, <hi>if in this life only we have hope in Christ, we are of all men most miserable;</hi> from hence, they thus ar<g ref="char:EOLhyphen"/>gue, that if the Souls of good Men enjoy pleasure and happiness before the Resur<g ref="char:EOLhyphen"/>rection, then they are not of all Men most miserable, though there were none; And therefore either the Apostle's Argument from the Afflictions of good Men, to prove the Resurrection, must be very weak, or else the Soul be in a State of insensibility till that day.</p>
+            <pb n="8" facs="tcp:40935:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="9" facs="tcp:40935:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="10" facs="tcp:40935:9"/>
+            <p>Now to this Three things may be Re<g ref="char:EOLhyphen"/>plyed. (1.) The former Answer may suffice, <hi>viz.</hi> that the Apostle's design was not only to prove the Resurrection in particular, but a life to come in general against some in the Church of <hi>Corinth</hi> that denyed it. (2) It's true, that were the Souls of the Saints, immediately upon their departure out of the Body admitted to the presence and sight of God, they were not of all o<g ref="char:EOLhyphen"/>thers most miserable, though their dead bodies should never be raised again, for the joys of the beatifick Vision are so tran<g ref="char:EOLhyphen"/>scendently great and transporting, that they in the Soul alone would make them infinite requitals for all their Labours and all their Sufferings in this World; but the interme<g ref="char:EOLhyphen"/>dial happiness of the Soul, being chiefly in relation to the Resurrection, consisting mostly in an enlarged and assured hope of the Bliss and Joys of that day, the Resur<g ref="char:EOLhyphen"/>rection of the Dead being the only Foun<g ref="char:EOLhyphen"/>dation of that peace and pleasure the Soul enjoys in its seperate State, it follows, that if there were no Resurrection, there would be no happiness at all for good
+<pb n="11" facs="tcp:40935:9"/> Men, neither before nor after, and so the Argument Remains good, that of all Men, those who suffer for Christ and his Reli<g ref="char:EOLhyphen"/>gion were most miserable. (3.) Our Saviour leaving his Apostles uncertain as to the time of his second coming to judge the World, its not improbable, that they generally thought that it would be in their days, and therefore we do not find that they sayd any thing of the interval be<g ref="char:EOLhyphen"/>twixt Death and Judgment, but frequent<g ref="char:EOLhyphen"/>ly joyn'd them together, as things very likely to happen not long after one ano<g ref="char:EOLhyphen"/>ther. So in the 2 Cor. 5.1. <hi>we know,</hi> says the Apostle, <hi>that if our earthly house of this Ta<g ref="char:EOLhyphen"/>bernacle was dissolv'd, we have a building of God, an house not made with hands, eternal in the heavens.</hi> The words run, as if the Apostle thought, that no sooner should the Soul put off its old rotten Cloaths of Flesh, but that instantly it should be new Apparel'd with the Celestial Robes of Im<g ref="char:EOLhyphen"/>mortality. 1 Cor. 15.51. <hi>We shall not all sleep, but we shall all be changed,</hi> The A<g ref="char:EOLhyphen"/>postle speaks of themselves in that Age, <hi>We.</hi> More plainly in the verse following
+<pb n="12" facs="tcp:40935:10"/> my Text, <hi>We that are alive and remain un<g ref="char:EOLhyphen"/>to the coming of the Lord, shall not prevent them which are a sleep.</hi> And from those words of our Saviour to St. <hi>John,</hi> 21. Ch. 22. vers. <hi>What if he tarry till I come, what is that to thee;</hi> his Disciples were apt to con<g ref="char:EOLhyphen"/>clude, v. 23. <hi>That that Disciple should not die.</hi> St. <hi>John</hi> therefore writing last, that he might clear all difficulties, and rectifie all mistakes, thus interposes in the same verse, <hi>yet Jesus said not unto him, he shall not die.</hi>
+            </p>
+            <p n="2">2. As this Doctrine of the Sleep of the Soul is without any proof from Scripture, so it's contrary to the plain words and sense of it. Our Saviour's words to the Penitent Thief are express against it, <hi>this day shalt thou be with me in Paradise,</hi>
+               <note place="margin">
+                  <hi>Luk.</hi> 23.43.</note> So is that Parable of <hi>Dives</hi> and <hi>La<g ref="char:EOLhyphen"/>zarus,</hi> the one Represented to be in <hi>hell tormented with flames,</hi>
+               <note place="margin">
+                  <hi>Luk.</hi> 16.23.</note> the other <hi>at rest in Abrahams bosome</hi> full of Peace and Com<g ref="char:EOLhyphen"/>fort. St. <hi>Paul</hi> no less plainly affirms it, <hi>Christ died for us, that whither we sleep or wake,</hi>
+               <note place="margin">1 <hi>Thess.</hi> 5.10.</note>
+               <hi>we should live together with him,</hi>
+               <pb n="13" facs="tcp:40935:10"/> now it is strange that we should be alive and live with Christ, and yet be bereft and stript of all vital operations. And since Christ took upon him all our Nature and all our Condition, why should not the Souls of his Servants partake of the same lot as Christ's had in its separate State; now it's certain, that Christ's Soul in the three days of its Separation, did not sleep, but exer<g ref="char:EOLhyphen"/>cise acts of Life, of Joy and Tryumph, and that to the confusion of Devils, but to the Joy and Satisfaction of those longing Souls that were Prisoners of hope. The Souls then of all those who sleep in Jesus are alive, and do think, and understand, and will, and love, and hope, and rejoyce, and do all other actions of Life proper and suitable to their exalted State; and if the Opinion of some wise Men be true, that the great difference betwixt the Souls of Men arises from the different Constitution of their Bodies, its most likely that holy Souls in the State of Separation are far more clear, and free, and vigorous in their actings, then they were when incumbred with a Body, especially with an ill organiz'd or an ill<g ref="char:EOLhyphen"/>dispos'd Body.</p>
+            <pb n="14" facs="tcp:40935:11"/>
+            <p>Thus is not the death of a good Man compar'd to Sleep in respect of his Soul, as if that slept with the Body in a State of in<g ref="char:EOLhyphen"/>sensibility; but in what respects then is it so called? (Not to follow the Metaphor in all particulars,) I shall name these two only.</p>
+            <p n="1">1. As Sleep locks up the door of the Senses, and puts an end to the Labours and Toyls of Life. So does Death to a good Man.<note place="margin">
+                  <hi>Rev.</hi> 14.13.</note>
+               <hi>Blessed are the dead which die in the Lord, they rest from their Labours.</hi>
+            </p>
+            <p>They rest even from the exercise of Re<g ref="char:EOLhyphen"/>ligious duties themselves, as they are a means in order to an end. We shall not need to Fast, or Watch, or Weep any more, being set safe out of the reach of Sin and Temptation; There will be no more need of the Ministry of Men, Preaching will be ended, and the Sacraments useless, Prayer be turned into Praises, and Faith be swallowed up in Fruition. It may be, in the other State, the Soul may pray for the Resurrection of its Body and the last Judgment, and the Soul and Body when
+<pb n="15" facs="tcp:40935:11"/> United again, may pray for the continu<g ref="char:EOLhyphen"/>ance of their Joys. It may be also, there may be some Use of Faith, for how shall we know things past and things to come, the Resurrection and the last Judg<g ref="char:EOLhyphen"/>ment, and the Eternity of heavenly Glo<g ref="char:EOLhyphen"/>ries, but by believing; But then, the Soul being in a State, wherein its impossible to fall into Sin, or to lose the Love and Fa<g ref="char:EOLhyphen"/>vour of God, to be dispossest of its present Peace, or defeated of its future Glorious expectations, the Exercise of these Graces cannot be in the least any disturbance and molestation to it, and consequently not the least diminution to its happiness.</p>
+            <p>Again, They rest from all the evils that attended them in their Voyage to that blessed Haven. They are not only free from the Fears of Eternal miseries, the just Re<g ref="char:EOLhyphen"/>wards of Sin and Folly, but from all those storms of fortune and persecutions of dis<g ref="char:EOLhyphen"/>grace that God was pleas'd to Suffer them, either for the Punishment of their Sins or the Trial of their Faith and Patience, to be Exercis'd with. Here the Weary are at Rest, no Sighs, no Groans, no Poverty,
+<pb n="16" facs="tcp:40935:12"/> no Oppression: The Soul is set out of Prison into a State of Liberty, deliver'd out of a Tempest, and safely landed upon the Shore, it did weep and lament, but <hi>now its sorrows are turned into Joy,</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 16.20.</note> and its Joy no man is able to take from it.<note place="margin">
+                  <hi>Mat.</hi> 5.4</note>
+               <hi>Blessed are they that mourn for they shall be comforted.</hi>
+            </p>
+            <p n="2">2. As Sleep remains but for a time, and then the Person wakes again into life and motion, so after the Body hath lyen a while in a Bed of Earth, it shall a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ise again, and being united to the Soul enter with it into an heavenly State. But this leads me to the second.</p>
+            <p n="2">2. Argument, The Apostle in the Text makes use of to support us under the Ap<g ref="char:EOLhyphen"/>prehensions of Death, taken from the Re<g ref="char:EOLhyphen"/>surrection of the dead, built upon the be<g ref="char:EOLhyphen"/>lief of our Saviours Resurrection, <hi>For if we believe that Jesus dyed and rose again, those that sleep in Jesus will God bring with him.</hi> The Argument proceeds thus,</p>
+            <p>If you ask how we know that there will be a Resurrection of the Dead, it's An<g ref="char:EOLhyphen"/>swerd, <hi>because Jesus dyed and rose again and
+<pb n="17" facs="tcp:40935:12"/> is become the first fruits of them that sleep;</hi> The same Almighty Power that rais'd him, is able to bring to Life again all that sleep in him.</p>
+            <p>If you ask how we know that Jesus is Risen, The Apostle Answers,<note place="margin">1 <hi>Cor.</hi> 15 5, 6.</note>
+               <hi>He was seen of Cephas, then of the twelve, then of five hundred Brethren at once.</hi>
+            </p>
+            <p>If you ask why we believe the Testimony of these men, since they were but men, and and so might be deceiv'd themselves and impose upon us; Amongst many, these four Reasons may be given of it.</p>
+            <p n="1">1. The Apostles who were the Publi<g ref="char:EOLhyphen"/>shers of this Doctrine to the World, were men of a pure Life and sober Mind, with<g ref="char:EOLhyphen"/>out any spot of immorality in their Acti<g ref="char:EOLhyphen"/>ons, or any touch of whimsy or melan<g ref="char:EOLhyphen"/>choly in their Brains, their very Enemies could never accuse them of the one, and the clearness and strength of their Writings sufficientl<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> testifie the other, now that such men as these should invent a falshood and then die Martyrs to the Villany, I think is past the belief of a reasonable Creature.</p>
+            <p n="2">2. Though the Resurrection of Christ
+<pb n="18" facs="tcp:40935:13"/> serves most effectually, and above all other things, to confirm the Truth of his Gos<g ref="char:EOLhyphen"/>pel, yet we cannot suppose that the Apo<g ref="char:EOLhyphen"/>stles did invent this for that end; because this Gospel more strictly than any other Religion that ever was in the World, for<g ref="char:EOLhyphen"/>bids Lying and false Witness, and makes our Yea, Yea, and our Nay, Nay, or else condemns us. We cannot think that the A<g ref="char:EOLhyphen"/>postles would invent a lye to propagate that Gospel which damns the Lyer.</p>
+            <p n="3">3. God enabled them with a Divine Power to work Miracles for the Confir<g ref="char:EOLhyphen"/>mation of it. <hi>God bore Witness,</hi> added a farther Testimony to theirs, <hi>both with signs and wonders,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 2.4.</note>
+               <hi>and with divers Miracles and Gifts of the holy Ghost.</hi> Now it would not have been consistent with the Divine Goodness and Wisdom to have done this, if the thing they declared, had been false, and their design thereby no other than to deceive the World and to decoy it into a false Worship and Religion.</p>
+            <p n="4">4. Because they could not be made to deny it by all the Torments the malice of Men and Devils could invent to lay upon
+<pb n="19" facs="tcp:40935:13"/> them. They were so assured of it, that they took their deaths upon it, and when they were not suffer'd any longer to live to Publish it, they layd down their lives and seal'd it with their blood: And now though a Man may suffer very much for all opinion which the Principles of his Edu<g ref="char:EOLhyphen"/>cation has deeply reveted in his mind, yet we cannot imagine that such sober Men as the Apostles were would have undergon all manner of Torments for an opinion that they themselves knew to be false, and upon that account could have nothing in it to endeare it to them.</p>
+            <p>Having thus explained and confirm'd the Apostles Arguments in the Text, no<g ref="char:EOLhyphen"/>thing now remains but that I shew you wherein the virtue and efficacy of them lye, to arm us against the stroke of our own death, and to support our Spirits under the loss of our Friends, <hi>I would not have you Ignorant Brethren, concerning them that are asleep, that ye sorrow not, even as others, which have no hope, for, if we believe,</hi> &amp;c. Now the Virtue and Spirit of them lie in these two particulars.</p>
+            <p n="1">
+               <pb n="20" facs="tcp:40935:14"/>1. That the Souls of good Men, instantly upon leaving their Bodies are blessed, tho not perfect, do not sleep with their Bodies, but immediately pass into a place of Spi<g ref="char:EOLhyphen"/>ritual delights and pleasures, far from fear and free from danger, enjoying a profound Peace and Tranquillity of mind, and all the Comforts that the assurance of a joy<g ref="char:EOLhyphen"/>ful and a glorious Resurrection can afford. In <hi>Justin Martyr's</hi> Language they remain <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in a far better place, then they were in here, where being gather'd within themselves, they perpetually enjoy what they love. In the Language of our Saviour, they go into Paradise, to be with <hi>Abraham,</hi> to be in <hi>Abrahams</hi> bosome. In<g ref="char:EOLhyphen"/>to Paradise, by which place the later <hi>Jews</hi> from the time of <hi>Esdras,</hi> when they began to speak more confidently concerning a fu<g ref="char:EOLhyphen"/>ture State, signified the State of Holy Souls expecting the Resurrection of their Bodies: Their meaning was, that as Para<g ref="char:EOLhyphen"/>dise and the Garden of <hi>Eden</hi> was a place of great Beauty and Pleasure, so was the State of Holy Souls departed, a State of perfect Peace and most excellent Delights.
+<pb n="21" facs="tcp:40935:14"/> Its call'd also to be with <hi>Abraham, Abra<g ref="char:EOLhyphen"/>ham</hi> being the Father of the Faithful, to be with him must needs signifie the same thing as to be happy; and in <hi>Abraham</hi>'s bosome, This Phrase being an allusion to the man<g ref="char:EOLhyphen"/>ner of the <hi>Jews</hi> Feasting, where the best and most beloved Guest lies in the bosome of the Master, it may not only denote the blessed State of Separation in general, but some eminency and priviledg of Joy in that State, some higher degrees of Blessed<g ref="char:EOLhyphen"/>ness, vouchsaf'd the bravest and most ex<g ref="char:EOLhyphen"/>cellent Persons.</p>
+            <p n="2">2. In that at the Resurrection, the Bo<g ref="char:EOLhyphen"/>dy shall be United again to the Soul, and both be admitted into a more full and per<g ref="char:EOLhyphen"/>fect State of Happiness in the enjoyment of God to all Eternity. <hi>We shall then see God, we shall be for ever with the Lord,</hi> as the A<g ref="char:EOLhyphen"/>postle speaks in the last Verse of this Chap<g ref="char:EOLhyphen"/>ter. Here, the knowledg we have of God and our blessed Saviour, of Divine and Heavenly Spirits and things, is very ob<g ref="char:EOLhyphen"/>scure and imperfect, shewn us as it were through a Glass, but when we come to Heaven we shall have unspeakably clearer
+<pb n="22" facs="tcp:40935:15"/> and more perspicuous apprehensions of them,<note place="margin">1 <hi>Cor.</hi> 13 12.</note> so the Apostle assures us. <hi>Now we see through a Glass darkly, but then Face to Face; now I know in part, but then shall I know, even as also I am known.</hi> Then shall we know God as truly, though not as fully as he knows us; our Wills and Affections will be wholy fixt on God, and our Understand<g ref="char:EOLhyphen"/>ings more enlarg'd to receive the knowledg of him, every Day we shall advance in our discoveries of God, and every such farther step, will afford us higher degrees of de<g ref="char:EOLhyphen"/>light and satisfaction. God is a bottom<g ref="char:EOLhyphen"/>less and boundless Ocean of all Perfecti<g ref="char:EOLhyphen"/>on, in whom there is enough for ever to entertain, and yet for ever to gratifie all the Faculties of our Souls; <hi>in his Presence there is fulness of Joy, and at his Right-hand there are Pleasures for evermore:</hi> besides, we shall not only see God, but this sight of him will transform us into the likeness of his Divine Excellencies, we shall be so Ravish'd with his Goodness, as to become Good thereby, so Enamour'd with his Wisdom, as to be rendred Wise, and have such an inward sense of his incomparable Purity
+<pb n="23" facs="tcp:40935:15"/> and Holiness as shall make us Holy in the highest degree of Finite Perfection; his Infinite Love shall so over-master our Souls that they shall in all things conform to his Mind, and be quicken'd into the same Thoughts and Desires with himself: we shall be render'd Living Images of God, and really chang'd into a true resemblance of those Divine Perfections which we ad<g ref="char:EOLhyphen"/>mire and adore: we shall not only see the Glory of Heaven, but be made our selves a part of its Glory, we shall not only see God, but be made our selves Godlike-Crea<g ref="char:EOLhyphen"/>tures, and thus partaking of the nature of God, we shall according to our capacity partake too of his happiness, for certainly those perfections will make Men happy, that make God himself to be so.</p>
+            <p>I have now done with my Text, and made this part of the Divine Oracle as plain and as useful as I could; but here is an other Text, and an other Sermon yet, but it shall not be long,</p>
+            <p>This Excellent Person, Sir <hi>Thomas Blud<g ref="char:EOLhyphen"/>worth,</hi> whose Reliques we are here assem<g ref="char:EOLhyphen"/>bled
+<pb n="24" facs="tcp:40935:16"/> to Inter, was descended from a wor<g ref="char:EOLhyphen"/>thy Family, and not only so, but by the stock of his own proper Virtues, has add<g ref="char:EOLhyphen"/>ed a farther Lustre and Ornament to it. His immediate Parents were Persons of E<g ref="char:EOLhyphen"/>minency and great Estate, and which is more then all, Patrons and Examples of great Virtue and regular Devotion in this Famous City; by whose care he had a ve<g ref="char:EOLhyphen"/>ry liberal and Religious Education, train'd up for some time at home in the Schools of Learning, and then sent abroad to fetch in those Flowers and Embellishments, if any such there are, that grow not in our Na<g ref="char:EOLhyphen"/>tive Soil. Thus, firmly grounded in the true Religion, competently furnish'd with ingenious and useful Knowledg, and much improved by Travel and Observation, he became a well-accomplish'd Person, able to serve, and sincerely devoted to the in<g ref="char:EOLhyphen"/>terests of Religion, his Prince and his Coun<g ref="char:EOLhyphen"/>trey. Many Years he liv'd in this Great and Magnificent Corporation, deservedly Honoured with, and faithfully discharging the highest and weightiest Offices of Trust and Government in it, both Civil and Mi<g ref="char:EOLhyphen"/>litary,
+<pb n="25" facs="tcp:40935:16"/> and whilst he served a Member of Parliament for a Neighbouring Borough behav'd himself with that Justice and In<g ref="char:EOLhyphen"/>tegrity, that he was both valued at Court and no less respected in that August As<g ref="char:EOLhyphen"/>sembly.</p>
+            <p>View him in his private Capacity, and there we have the pattern of a good Chri<g ref="char:EOLhyphen"/>stian, his Family govern'd with Prudence, restrain'd from vice, I am sure, from open and scandalous ones, accustom'd to the practice of Religion, and the daily Worship of God: So Loving and Respect<g ref="char:EOLhyphen"/>ful an Husband, so Provident and Wise a Father, so Kind and Obliging a Master, that he justly had that Love and Regard, that Duty and Observance which his Kind<g ref="char:EOLhyphen"/>ness and his Care had merited from them. His Conversation abroad was very Cour<g ref="char:EOLhyphen"/>teous and Affable, treating all he converst with, with an obliging look, a gentile de<g ref="char:EOLhyphen"/>portment and endearing language, re<g ref="char:EOLhyphen"/>markably just to all men, very respectful to the Clergy, and Charitable to the Poor, and that which is peculiarly a true Christi<g ref="char:EOLhyphen"/>an
+<pb n="26" facs="tcp:40935:17"/> temper, delighting in nothing more, than to make Peace, to compose Diffe<g ref="char:EOLhyphen"/>rences, to forgive Injuries himself, and to perswade others to do so, so far from breaking forth into a rage and storm up<g ref="char:EOLhyphen"/>on every little provocation, or, when just<g ref="char:EOLhyphen"/>ly provok'd, from suffering his displeasure to fester into Malice and Rancour, that he was always in a more then ordinary de<g ref="char:EOLhyphen"/>gree, easie and forward to be recon<g ref="char:EOLhyphen"/>cil'd.</p>
+            <p>View him in his publick Capacity, and there we have the pattern of an Upright Magistrate, minding more the duty of his Place, then the dignity of it, prefering the glory of God, the publick Good, the peace of the Church, and the impartial administration of Justice, before any Se<g ref="char:EOLhyphen"/>cular Interest or Advantage of his own, he was one, who neither courted the Peo<g ref="char:EOLhyphen"/>ples Favour, nor fear'd their Frowns, but wisely chose rather to be a good Magistrate than a popular one.</p>
+            <pb n="27" facs="tcp:40935:17"/>
+            <p>Two things he was very Eminent and Exemplary in, he had a mighty Affection and Zeal for the King and the Church of <hi>England.</hi>
+            </p>
+            <p>He was a great lover of the Church, a constant hearer of its Prayers, a diligent attender to its Sermons, and an Obedi<g ref="char:EOLhyphen"/>ent Son to its Commands and Constituti<g ref="char:EOLhyphen"/>ons: To this truly Primitive and best Re<g ref="char:EOLhyphen"/>formed Church in the World, he was a stedfast and an immovable Friend, and that in an equal opposition to both ex<g ref="char:EOLhyphen"/>treams, of Popery and Superstition on the one hand, and Fanaticism and Enthusiasm on the other; To the Doctrine and Dis<g ref="char:EOLhyphen"/>cipline of this Church, that asserts the Rights of Princes against all Usurpations, that's free from all Impostures and Inno<g ref="char:EOLhyphen"/>vations, all Pious frauds and arts of gain, To the Services and Devotions of this Church that are Sober and Manly, De<g ref="char:EOLhyphen"/>cent and Orderly, full of Life and Spi<g ref="char:EOLhyphen"/>rit, terminated on the right object, and fitted to all sorts and conditions of Men, his Affections were so inflam'd, his Judg<g ref="char:EOLhyphen"/>ment
+<pb n="28" facs="tcp:40935:18"/> so confirm'd, his Practice in them so incessant, that in all these, I pray your pardon, if I say, he was not outdone by any, that in the same degree and Station, profess themselves Members of it.</p>
+            <p>And as he fear'd God and lov'd his Church, so he was no less careful to ho<g ref="char:EOLhyphen"/>nour the King and to obey his Ordinances for Gods sake, next to the Interests of Re<g ref="char:EOLhyphen"/>ligion, those of the Crown lay nearest his heart, and were ever most studiously and zealously promoted by him, moved there<g ref="char:EOLhyphen"/>unto not by any secret and particular Fa<g ref="char:EOLhyphen"/>vours from Court and what were not common to all his fellow-Subjects, but only by a deep sense of his Duty, by the Principles of his Religion, of the truly Christian and Church of <hi>England</hi> Religion, and by a sincere love to his Country, ha<g ref="char:EOLhyphen"/>ving well understood that the true Interests of the People is their Kings Honour, and that they can never be happy whilst he's uneasie.</p>
+            <pb n="29" facs="tcp:40935:18"/>
+            <p>Thus liv'd this worthy Gentleman, de<g ref="char:EOLhyphen"/>servedly respected by his Prince, highly esteem'd by his fellow-Citizens, beloved, if not by all yet which is mored, by the best Men.</p>
+            <p>He had indeed, as all of us, the unhap<g ref="char:EOLhyphen"/>piness to live in an Age that's full of un<g ref="char:EOLhyphen"/>charitable Censures, most unreasonable Divisions and Animosities, wherein regu<g ref="char:EOLhyphen"/>lar Devotion is by too many, Ignorantly, I fear, maliciously term'd Popery; decent Worship, Superstition; opposing of Scisme, hatred of the Power of Godliness; and Loyalty to the King, a betraying the Peoples Rights and Priviledges; and there<g ref="char:EOLhyphen"/>fore its no wonder, if such men as he, who are invincibly true and firm to the present Government in Church and State, should have their most innocent Actions slande<g ref="char:EOLhyphen"/>rously reported, their misfortunes reckon'd their faults, their little mistakes blown up into Crimes of the greatest magnitude, and their names loaded with many evil Re<g ref="char:EOLhyphen"/>proaches from those presumptuous and self-will'd Separatists, as St. <hi>Peter</hi> and
+<pb n="30" facs="tcp:40935:19"/> St. <hi>Jude</hi> both call them, who despise Do<g ref="char:EOLhyphen"/>minion, and speak evil of Dignities; But if this be all the occasion of their ill will and bitter language, the best of it is, 'tis such dirt as will not stick, that is so far from sullying, that it serves mightily to illustrate and brighten their names and memories.</p>
+            <p>And now we are come to the last and most sorrowful Scene of his Life, I mean, to us, not to him, who, all the time of his Sickness was not heard to let fall one word of discontent under it, but often, as far as the prevalency of his Disease gave way, expressing his Repentance for the er<g ref="char:EOLhyphen"/>rors of his past life, his patient submission to the Will of God, his willingness to leave this World, and his hopes of a better, and in this eveness and indifferency of Spi<g ref="char:EOLhyphen"/>rit as to the event of life and death he fell asleep, and 'tis our humble and confident hope that he sleeps in Jesus, that his Soul is past into the custody and bosome of Jesus, waiting in perfect Peace and in full assurance of Faith for the Resurrection of
+<pb n="31" facs="tcp:40935:19"/> its Body, which shall at that great day be rows'd again from sleep by the sound of the last Trump, be United to his Soul, and then both be admitted into an uninterrup<g ref="char:EOLhyphen"/>ted Communion with God unto all Eterni<g ref="char:EOLhyphen"/>ty. Which God of his infinite Mercy make us all partakers through Jesus Christ our Lord.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
